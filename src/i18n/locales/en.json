@@ -1,0 +1,22 @@
+{
+  "new_task": "New Task",
+  "edit_task": "Edit Task",
+  "title": "Title",
+  "placeholder_title": "Ex: Study React",
+  "day_of_week": "Day of the Week",
+  "cancel": "Cancel",
+  "save_changes": "Save Changes",
+  "add_task": "+ Add Task",
+  "close_modal": "Close modal",
+  "edit": "Edit",
+  "delete": "Delete",
+  "days": {
+    "sun": "Sunday",
+    "mon": "Monday",
+    "tue": "Tuesday",
+    "wed": "Wednesday",
+    "thu": "Thursday",
+    "fri": "Friday",
+    "sat": "Saturday"
+  }
+}

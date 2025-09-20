@@ -1,0 +1,22 @@
+{
+  "new_task": "Nova Tarefa",
+  "edit_task": "Editar Tarefa",
+  "title": "Título",
+  "placeholder_title": "Ex: Estudar React",
+  "day_of_week": "Dia da Semana",
+  "cancel": "Cancelar",
+  "save_changes": "Salvar Alterações",
+  "add_task": "+ Adicionar Tarefa",
+  "close_modal": "Fechar modal",
+  "edit": "Editar",
+  "delete": "Excluir",
+  "days": {
+    "sun": "Domingo",
+    "mon": "Segunda",
+    "tue": "Terça",
+    "wed": "Quarta",
+    "thu": "Quinta",
+    "fri": "Sexta",
+    "sat": "Sábado"
+  }
+}
