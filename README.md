@@ -39,8 +39,8 @@ A weekly planner built with React, Zustand, and TailwindCSS. It allows you to cr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seu-usuario/repo.git
-cd repo
+git clone https://github.com/IzaDeveloper/weekly-planner
+cd weekly-planner
 ```
 
 ### 2. Install the dependencies
