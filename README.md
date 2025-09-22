@@ -22,7 +22,7 @@ A weekly planner built with React, Zustand, and TailwindCSS. It allows you to cr
 
 ## 🖼️ Preview
 
-![preview](https://your-image-link-if-you-have-one)
+![preview](https:weekly-planned.vercel.app/preview-en.png)
 
 
 ## 🧠 Technologies used
@@ -119,8 +119,7 @@ Um planner semanal feito com React, Zustand e TailwindCSS. Permite a criação, 
 
 ## 🖼️ Demonstração
 
-![preview](https://your-image-link-if-you-have-one)
-
+![preview](https:weekly-planned.vercel.app/preview-pt.png)
 
 ## 🧠 Tecnologias utilizadas
 
