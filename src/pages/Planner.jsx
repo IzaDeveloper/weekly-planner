@@ -39,7 +39,7 @@ function Planner() {
   };
 
   return (
-    <>
+    <div className="max-w-7xl mx-auto">
       <div className="flex gap-5 pb-5 flex-wrap justify-between flex-col-reverse sm:flex-row">
         <AddTask onClickProps={() => {
           setTaskToEdit(null);
@@ -65,7 +65,7 @@ function Planner() {
       </div>
 
       <TaskModal isOpen={isModalOpen} onClose={handleCloseModal} taskToEdit={taskToEdit} />
-    </>
+    </div>
   );
 };
 
